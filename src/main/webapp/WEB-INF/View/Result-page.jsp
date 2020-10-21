@@ -9,7 +9,7 @@
 <body>
 	<h1 align="center">RelationShip Calculator</h1>
 	<hr>
-	<p>${userdto.yourName}</p>
-	<p>${userdto.otherName}</p>
+	<p>YourName: ${userdto.yourName}</p>
+	<p>OtherName:${userdto.otherName}</p>
 </body>
 </html>
